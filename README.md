@@ -17,4 +17,5 @@ Esse é um repositório dedicado para as aulas exercícios do curso de python 3 
 - [] Finalizar o Módulo 3
 
 
-![Python Language](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
+![Python Language](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
+<!-- ![Python Language](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png) -->
