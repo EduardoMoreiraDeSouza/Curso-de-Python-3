@@ -17,4 +17,4 @@ Esse é um repositório dedicado para as aulas exercícios do curso de python 3 
 - [] Finalizar o Módulo 3
 
 
-![Python Language](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wiktionary.org%2Fwiki%2FFicheiro%3APython.svg&psig=AOvVaw0Sog4za3MikOnfEtG0ne19&ust=1685756545342000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiW6P26o_8CFQAAAAAdAAAAABAE)
+![Python Language](https://pt.wiktionary.org/wiki/Ficheiro:Python.svg)
