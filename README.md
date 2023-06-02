@@ -17,9 +17,7 @@ Esse é um repositório dedicado para as aulas exercícios do curso de python 3 
 - [ ] Finalizar o Módulo 3
 
 Módulo | Quant Aulas | Completas
-
 ---|---|---
-
 Mundo 1 | x | X
 Mundo 2 | x | x
 Mundo 3 | X | X
