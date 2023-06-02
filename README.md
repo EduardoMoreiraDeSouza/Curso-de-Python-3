@@ -2,7 +2,7 @@
 
 ---
 
-Esse é um repositório dedicado para as aulas exercícios do curso de python 3 do curso em vídeo
+Esse é um repositório dedicado para as aulas exercícios do curso de python 3 do curso em vídeo! Aluno @EduardoMoreiraDeSouza
 
 ### __*Módulos:*__
 
@@ -22,9 +22,11 @@ Mundo 1 | X | X
 Mundo 2 | X | X
 Mundo 3 | X | X
 
-Esse é o novo método para dar **print no Python 3**: `print('Olá {}, Sejá bem bindo ao meu repositório de aulas do Pyhton 3'.format('Visitante'))`
+> Fique comigo até o fim do módulo 3
 
-### Script Python Para Calcular Seno, Cosseno e Tangente :smile::
+### Scripts Python:smile::
+
+Esse é o novo método para dar **print no Python 3**: `print('Olá {}, Sejá bem bindo ao meu repositório de aulas do Pyhton 3'.format('Visitante'))`
 
 ```
 
@@ -40,9 +42,7 @@ tangente = tan(angulo)
 seno = sin(angulo)
 
 print('Seno: {:.5f}\nCosseno: {:.5f}\nTangente: {:.5f}'.format(seno, cosseno, tangente))
-
 ```
-
 
 ![Python Language](https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg)
 
