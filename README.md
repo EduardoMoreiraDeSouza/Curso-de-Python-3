@@ -12,13 +12,13 @@ Esse é um repositório dedicado para as aulas exercícios do curso de python 3 
 
 ### __*Missões:*__
 
-- [] Finalizar o Módulo 1
-- [] Finalizar o Módulo 2
-- [] Finalizar o Módulo 3
+- [ ] Finalizar o Módulo 1
+- [ ] Finalizar o Módulo 2
+- [ ] Finalizar o Módulo 3
 
 Módulo | Quant Aulas | Completas
 
---- | --- | ---
+---|---|---
 
 Mundo 1 | x | X
 Mundo 2 | x | x
