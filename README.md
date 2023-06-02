@@ -24,7 +24,7 @@ Mundo 3 | X | X
 
 Esse é o novo método para dar **print no Python 3**: `print('Olá {}, Sejá bem bindo ao meu repositório de aulas do Pyhton 3'.format('Visitante'))`
 
-### Script Python
+### Script Python Para Calcular Seno, Cosseno e Tangente :smile:
 
 ```
 
