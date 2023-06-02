@@ -1,3 +1,5 @@
+""" Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada. """
+
 numero = int(input('Digite um valor: '))
 
 dobro = numero * 2
