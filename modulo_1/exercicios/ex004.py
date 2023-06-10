@@ -1,5 +1,8 @@
-""" Faça um programa que leia algo pelo teclado,
-e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele. """
+"""
+Faça um programa que leia algo pelo teclado,
+e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
+"""
 
 dado = input('Digite qualquer coisa que você desejar: ')
 

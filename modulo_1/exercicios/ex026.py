@@ -1,8 +1,10 @@
 """
 Faça um programa que leia uma frase pelo teclado e mostre
-    Quantas vezes aparece a letra 'a';
-    Em que posição ela aparece a primeira vez;
-    emq eu posição ela aparece a ultima vez;
+
+- Quantas vezes aparece a letra 'a';
+- Em que posição ela aparece a primeira vez;
+- emq eu posição ela aparece a ultima vez;
+
 """
 
 frase = input("Digite uma frase: ").lower()

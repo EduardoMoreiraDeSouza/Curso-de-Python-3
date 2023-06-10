@@ -1,5 +1,8 @@
-""" Faça um programa que leia o nome completo de uma pessoa,
-mostrando em seguida o primeiro e o ultimo nome separadamente. """
+"""
+Faça um programa que leia o nome completo de uma pessoa,
+mostrando em seguida o primeiro e o ultimo nome separadamente.
+
+"""
 
 nomeCompleto = input("Por favor! Digite seu nome completo: ").title()
 

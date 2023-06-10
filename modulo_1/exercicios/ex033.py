@@ -3,8 +3,6 @@
 numero1 = float(input("Digite um número: "))
 numero2 = float(input("Digite outro número: "))
 numero3 = float(input("Digite um último número: "))
-maior = 0
-menor = 0
 
 if numero2 > numero1 and numero2 > numero3:
     maior = numero2
