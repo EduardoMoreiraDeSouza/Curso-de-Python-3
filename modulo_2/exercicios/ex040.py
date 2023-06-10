@@ -14,10 +14,10 @@ nota2 = float(input('Digite a nota da sua segunda prova: '))
 media = (nota1 + nota2) / 2
 
 if media < 5:
-    print('Sua média foi de {} ponto(s)! Você foi reprovado!'.format(media))
+    print('Sua média foi de {:.1f} ponto(s)! Você foi reprovado!'.format(media))
 
 elif 5 <= media <= 6.9:
-    print('Sua média foi de {} ponto(s)! Você está de recuperação!'.format(media))
+    print('Sua média foi de {:.1f} ponto(s)! Você está de recuperação!'.format(media))
 
 else:
-    print('Sua média foi de {} ponto(s)! Você foi Aprovado! PARABÉNS!!'.format(media))
+    print('Sua média foi de {:.1f} ponto(s)! Você foi Aprovado! PARABÉNS!!'.format(media))

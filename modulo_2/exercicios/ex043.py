@@ -18,13 +18,13 @@ imc = peso / altura ** 2
 if imc < 18.5:
     print('ATENÇÃO!! Você está abaixo do peso ideal!')
 
-elif 18.5 < imc <= 25:
+elif imc <= 25:
     print('PARABÉNS!! Você está no seu peso ideal!')
 
-elif 25 < imc <= 30:
+elif imc <= 30:
     print('ATENÇÃO!! Você está um pouco acima do seu peso ideal! (Sobrepeso)')
 
-elif 30 < imc <= 40:
+elif imc <= 40:
     print('ATENÇÃO!! Você está muito acima do seu peso ideal! (Obesidade)')
 
 else:

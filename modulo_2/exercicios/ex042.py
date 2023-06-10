@@ -59,6 +59,7 @@ if formaTriangulo:
         tipoTriangulo = "escaleno"
 
     print("É possível formar um triângulo {} com essas três retas!".format(tipoTriangulo))
+
 else:
     print("Não é possível formar um triângulo com essas três retas!")
 

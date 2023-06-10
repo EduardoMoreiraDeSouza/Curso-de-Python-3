@@ -14,7 +14,7 @@ prazo = int(input('Em quantos anos você pretende pagar o empréstimo? '))
 prestacaoMensal = valorCasa / (prazo * 12)
 valorMaximoPrestacao = (salario / 100) * 30
 
-if (prestacaoMensal > valorMaximoPrestacao):
+if prestacaoMensal > valorMaximoPrestacao:
     print('Empréstimo Negado!')
 
 else:

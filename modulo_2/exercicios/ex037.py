@@ -68,4 +68,6 @@ resultadoConversao = ''
 for i in range(len(todosRestosDivisoes)):
     resultadoConversao = resultadoConversao + str(todosRestosDivisoes[i])
 
-print('O número {} convertido na base {} é {}'.format(numeroEscolhido, baseConversao, resultadoConversao))
+print('\nO número {} convertido na base {} é {}'.format(numeroEscolhido, baseConversao, resultadoConversao))
+
+""" OBS.: Existem funções que já fazem esses cálculoss, bin(), hex(), oct()"""
