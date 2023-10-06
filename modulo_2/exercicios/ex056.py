@@ -6,3 +6,5 @@ Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do p
 - Quantas mulheres tem menos de 20 anos.
 
 """
+
+
